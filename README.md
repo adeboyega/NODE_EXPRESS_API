@@ -1,3 +1,3 @@
 # NODE_EXPRESS_API
 
-an api that handles users 
+an api that handles users anduser objects
